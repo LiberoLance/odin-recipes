@@ -1,3 +1,17 @@
-#main-page {
+.main-page {
    background: sienna;
+}
+
+.title {
+   color: white;
+   text-align: center;
+}
+
+.source-title {
+   color: white;
+}
+
+.list-one,
+.list-two {
+   color: chocolate;
 }
