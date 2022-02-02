@@ -11,7 +11,10 @@
    color: white;
 }
 
-.list-one,
-.list-two {
-   color: chocolate;
+a:link {
+   color:chocolate;
+}
+
+a:visited {
+   color:white;
 }
