@@ -1,3 +1,4 @@
+/*Main page style rules*/
 .main-page {
    background: sienna;
 }
@@ -17,4 +18,26 @@ a:link {
 
 a:visited {
    color:white;
+}
+
+/*pound cake page style rules*/
+.pound-page{
+   background: SandyBrown;
+}
+
+.pound-title {
+   color: LightYellow;
+   text-align center;
+}
+
+.pound-img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+   height: auto;
+}
+
+.pound-txt {
+   color: LightYellow;
 }
