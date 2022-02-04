@@ -43,3 +43,20 @@ a:visited {
    color: Gold;
 }
 
+/*french chocolate cake page style rules*/
+.french-title {
+   text-align: center;
+}
+
+.french-title,
+.french-text {
+   color: Brown;
+}
+
+.french-img {
+   display: block;
+   height: auto;
+   width: 50%;
+   margin-left: auto;
+   margin-right: auto;
+}
