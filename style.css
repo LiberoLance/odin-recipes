@@ -22,22 +22,24 @@ a:visited {
 
 /*pound cake page style rules*/
 .pound-page{
-   background: SandyBrown;
+   background: Peru;
 }
 
 .pound-title {
-   color: LightYellow;
-   text-align center;
+   color: LemonChiffon;
+   text-align: center;
 }
 
 .pound-img {
    display: block;
+   border-radius: 50%;
    margin-left: auto;
    margin-right: auto;
-   width: 50%;
-   height: auto;
+   width: 30%;
+   height: 50%o;
 }
 
 .pound-txt {
-   color: LightYellow;
+   color: LemonChiffon;
 }
+
