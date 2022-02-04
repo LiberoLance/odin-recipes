@@ -26,7 +26,6 @@ a:visited {
 }
 
 .pound-title {
-   color: LemonChiffon;
    text-align: center;
 }
 
@@ -39,7 +38,8 @@ a:visited {
    height: 50%o;
 }
 
+.pound-title,
 .pound-txt {
-   color: LemonChiffon;
+   color: Gold;
 }
 
