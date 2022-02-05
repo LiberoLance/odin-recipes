@@ -60,3 +60,22 @@ a:visited {
    margin-left: auto;
    margin-right: auto;
 }
+
+
+/*Tres Leches Cake style rules*/
+.tres-title {
+   text-align: center;
+}
+
+.tres-img {
+   display: block;
+   height: 20%;
+   width: 20%;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.tres-title,
+.tres-text {
+   color: red;
+}
